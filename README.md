@@ -4,6 +4,6 @@
 ### In this Challenge, you will complete the code that enables your customers to send cryptocurrency payments to fintech professionals. To develop the code and test it out, you will assume the perspective of a KryptoJobs2Go customer who is using the application to find a fintech professional and pay them for their work.
 
 ### Execute the following steps:
-### 1. Import Ethereum Transaction Functions into the KryptoJobs2Go Application
-### 2. Sign and Execute a Payment Transaction
-### 3. Inspect the Transaction on Ganache
+1. Import Ethereum Transaction Functions into the KryptoJobs2Go Application
+2. Sign and Execute a Payment Transaction
+3. Inspect the Transaction on Ganache
