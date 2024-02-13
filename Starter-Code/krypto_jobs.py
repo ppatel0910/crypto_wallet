@@ -170,7 +170,7 @@ st.sidebar.write(account.address)
 # Call `get_balance` function and pass it your account address
 # Write the returned ether balance to the sidebar
 ether_balance = get_balance(w3, account.address)
-st.sidebar.write(ether_balance))
+st.sidebar.write(ether_balance)
 
 ##########################################
 
